@@ -1,3 +1,6 @@
+![AGBCLOUD Public Preview Light](/assets/agb-public-light.png#gh-light-mode-only)
+![AGBCLOUD Public Preview Dark](/assets/agb-public-dark.png#gh-dark-mode-only)
+
 ## About AGBCLOUD
 AI-native, cross-platform sandboxes for developers — powered by multimodal runtime and expert agents.
 
